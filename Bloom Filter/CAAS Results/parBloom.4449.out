@@ -1,0 +1,18 @@
+************************************************************************
+
+*                        Parallel Bloom Filter                         *
+
+************************************************************************
+Total estimated unique words from the files: 71879. Counting time only(s): 2.744152 seconds
+Number of unique words: 71879
+Recommended array size: 448181
+Recommended number of hashes: 4
+Number of words inserted: 51466. Insertion time only(s): 0.016850 seconds
+Total True Positives: 87483
+Total True Negatives: 3875
+Total False Positives: 280
+Total False Negatives: 0
+False Positive Rate: 0.067389
+Query time only(s): 0.050641 seconds
+Overall process time(s): 2.812517 seconds
+
